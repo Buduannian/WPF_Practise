@@ -1,0 +1,11 @@
+# 编译输出
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# 其他
+*.log
