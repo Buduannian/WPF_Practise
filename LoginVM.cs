@@ -83,6 +83,7 @@ namespace WPF_Study
 
             }
         }
+        //测试github推送功能
         bool CanLoginExecute()
         {
             return true;
