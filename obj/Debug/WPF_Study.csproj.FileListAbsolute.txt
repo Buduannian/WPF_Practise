@@ -1,0 +1,17 @@
+D:\vs_project\WPF_Study_Solution\WPF_Study\bin\Debug\WPF_Study.exe.config
+D:\vs_project\WPF_Study_Solution\WPF_Study\bin\Debug\WPF_Study.exe
+D:\vs_project\WPF_Study_Solution\WPF_Study\bin\Debug\WPF_Study.pdb
+D:\vs_project\WPF_Study_Solution\WPF_Study\obj\Debug\WPF_Study.csproj.AssemblyReference.cache
+D:\vs_project\WPF_Study_Solution\WPF_Study\obj\Debug\MainWindow.g.cs
+D:\vs_project\WPF_Study_Solution\WPF_Study\obj\Debug\App.g.cs
+D:\vs_project\WPF_Study_Solution\WPF_Study\obj\Debug\WPF_Study_MarkupCompile.cache
+D:\vs_project\WPF_Study_Solution\WPF_Study\obj\Debug\WPF_Study_MarkupCompile.lref
+D:\vs_project\WPF_Study_Solution\WPF_Study\obj\Debug\MainWindow.baml
+D:\vs_project\WPF_Study_Solution\WPF_Study\obj\Debug\WPF_Study.g.resources
+D:\vs_project\WPF_Study_Solution\WPF_Study\obj\Debug\WPF_Study.Properties.Resources.resources
+D:\vs_project\WPF_Study_Solution\WPF_Study\obj\Debug\WPF_Study.csproj.GenerateResource.cache
+D:\vs_project\WPF_Study_Solution\WPF_Study\obj\Debug\WPF_Study.csproj.CoreCompileInputs.cache
+D:\vs_project\WPF_Study_Solution\WPF_Study\obj\Debug\WPF_Study.exe
+D:\vs_project\WPF_Study_Solution\WPF_Study\obj\Debug\WPF_Study.pdb
+D:\vs_project\WPF_Study_Solution\WPF_Study\obj\Debug\Index.g.cs
+D:\vs_project\WPF_Study_Solution\WPF_Study\obj\Debug\Index.baml
