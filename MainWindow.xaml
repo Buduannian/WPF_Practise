@@ -29,14 +29,14 @@
                 <ColumnDefinition Width="200"/>
             </Grid.ColumnDefinitions>
             <TextBlock Text="用户名" Grid.Row="0" Grid.Column="0" HorizontalAlignment="Center" Margin="2"/>
-            <TextBox Text="{Binding UserName}"  x:Name="txtUserName" Grid.Row="0" Grid.Column="1"/>
+            <TextBox Text="{Binding UserName, UpdateSourceTrigger=PropertyChanged}"  x:Name="txtUserName" Grid.Row="0" Grid.Column="1"/>
             
             <TextBlock Text="密码" Grid.Row="1" Grid.Column="0" HorizontalAlignment="Center" Margin="2"/>
-            <TextBox Text="{Binding Password}"   Grid.Row="1"  Grid.Column ="1"/>
+            <TextBox Text="{Binding Password, UpdateSourceTrigger=PropertyChanged}"   Grid.Row="1"  Grid.Column ="1"/>
 
             <CheckBox Content="记住密码" Grid.Row="2" Grid.ColumnSpan="2"/>
 
-            <Button Grid.Row="3"  Grid.ColumnSpan="2"  Content="登录" Click="Button_Click"/>
+            <Button Grid.Row="3"  Grid.ColumnSpan="2"  Content="登录" Command="{Binding LoginAction}"/>
         </Grid>
     </Grid>
 </Window>
