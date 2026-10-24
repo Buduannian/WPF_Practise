@@ -4,6 +4,11 @@
              xmlns:local="clr-namespace:WPF_Study"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="CustomButtonStyles.xaml"/>
+                <ResourceDictionary Source="/CustomTextboxStyle.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
     </Application.Resources>
 </Application>
